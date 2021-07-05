@@ -6,3 +6,6 @@ Simple PMOD extension board for Arrow DECA connector.
 of connecting straight to the 3V3 pin (which very likely doesn't have enough
 power.)**
 
+![Arrow DECA PMOD Cape 3D](./doc/arrow_deca_pmod_cape_3d.png)
+
+
